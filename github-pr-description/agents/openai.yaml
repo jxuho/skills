@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub PR Description"
+  short_description: "Draft concise ticket-focused PR descriptions"
+  default_prompt: "Use $github-pr-description to draft a concise PR description for this session."
