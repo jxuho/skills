@@ -1,0 +1,8 @@
+interface:
+  display_name: "Feature Trace"
+  short_description: "Trace one frontend feature end-to-end with focused evidence."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  default_prompt: "Use $feature-trace to trace one frontend feature from its trigger to its visible effect."
+policy:
+  allow_implicit_invocation: true

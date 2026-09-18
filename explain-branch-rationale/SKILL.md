@@ -7,14 +7,6 @@ description: Explain why the current branch changed by comparing its latest work
 
 Explain the final change at the level of user behavior and software design. Ground the explanation in the current branch rather than relying on earlier plans or conversation summaries.
 
-## Default invocation
-
-When invoked as `$explain-branch-rationale` without additional instructions, treat it as this request:
-
-> 현재 브랜치 변경을 사수에게 설명할 수 있게 정리해줘.
-
-Proceed immediately with the comparison and explanation workflow below. Do not ask the user to repeat or clarify the default request.
-
 ## Establish the comparison
 
 1. Use an explicitly supplied PR base or branch start when available.

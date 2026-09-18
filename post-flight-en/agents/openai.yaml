@@ -1,0 +1,4 @@
+interface:
+  display_name: "Post Flight EN"
+  short_description: "Verify understanding and ownership after implementation"
+  default_prompt: "Use $post-flight-en to review my implemented change and help me build a durable ownership record."

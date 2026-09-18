@@ -1,0 +1,8 @@
+interface:
+  display_name: "Pre-Flight Frontend"
+  short_description: "Compare frontend ticket implementation options before coding"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  default_prompt: "Use $pre-flight-frontend to review this frontend ticket and compare implementation options before coding."
+policy:
+  allow_implicit_invocation: true
